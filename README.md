@@ -67,17 +67,6 @@ This project analyzes all **64 matches** of the FIFA World Cup 2022 in Qatar, tr
 
 ---
 
-## 📁 Repository Contents
-
-```
-World-Cup-2022-Dashboard/
-├── WORLD CUP 2022.pbix       → Full Power BI project file
-├── screenshots/               → Dashboard page exports
-└── README.md                  → This file
-```
-
----
-
 ## ▶️ How to View
 
 **Option 1 — Quick view:** Scroll up — all 4 dashboard pages are embedded above as images.
