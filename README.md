@@ -27,7 +27,7 @@ This project analyzes all **64 matches** of the FIFA World Cup 2022 in Qatar, tr
 ### Page 1 — Team Analytics & Match Statistics
 Goals vs. Penalties scatter analysis, highest-scoring tournament stages, and clean sheet percentage breakdown. Argentina leads the chart in both goals and penalties drawn.
 
-![Team Analytics](screenshots/01-team-analytics.png)
+![Team Analytics](https://github.com/kaifgawandi/World-Cup-2022-Dashboard/blob/main/screenshots/01-team-analytics.png?raw=true)
 
 ---
 
